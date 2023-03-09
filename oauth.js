@@ -1,0 +1,1 @@
+// oAuth is just a specification
